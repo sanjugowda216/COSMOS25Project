@@ -1,5 +1,15 @@
 # COSMOS25Project
-PathPilot
+DIRECTIONS
+
+GIT COMMANDS
+- always git pull
+- NEVER COMMIT TO MAIN - checkout new branch with "git checkout -b branchName"
+- git add .
+- git commit -m "your message"
+- git push origin branchName
+
+
+
 📁 models/
 
 Purpose: Load and manage your pretrained models
